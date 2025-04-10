@@ -100,7 +100,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   padding-right: 3rem;
 }
 
-placement {
+.placement {
       transform: translateY(-95px);
       height: 100vh;
       }
