@@ -2930,6 +2930,9 @@ details-disclosure > details {
   color: rgb(var(--color-badge-foreground));
   word-break: break-word;
 }
+.gradient-opacity {
+  opacity: 100%;
+}
 
 .gradient {
   background: rgb(var(--color-background));
